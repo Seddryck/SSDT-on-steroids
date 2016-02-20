@@ -11,5 +11,5 @@ Copy dlls in Post-Build event
 	xcopy /Y "$(TargetDir)$(TargetName).*" "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\130\Extensions"
 
 Debug start external program
-	%ProgramFiles%\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
+	C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
 	
