@@ -72,9 +72,6 @@
     </Build>
   </ItemGroup>
   <ItemGroup>
-    <None Include="TextTemplate1.txt">
-      <DependentUpon>TextTemplate1.tt</DependentUpon>
-    </None>
     <None Include="Country-Merge.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
     </None>
