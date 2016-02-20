@@ -68,6 +68,6 @@
     <Build Include="Dwh\Facts\FactDailyOrder.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Steroids.publish.xml" />
+    <None Include="Steroids Core.publish.xml" />
   </ItemGroup>
 </Project>

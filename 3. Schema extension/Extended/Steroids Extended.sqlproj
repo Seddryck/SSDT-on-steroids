@@ -63,4 +63,7 @@
     <Build Include="Dwh\FactMonthlyOrder.sql" />
     <Build Include="Dwh\MonthlyOrderByCustomer.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Steroids Extended.publish.xml" />
+  </ItemGroup>
 </Project>
