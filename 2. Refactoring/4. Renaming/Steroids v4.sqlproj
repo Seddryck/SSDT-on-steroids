@@ -64,7 +64,7 @@
     <Folder Include="Dwh\Facts" />
     <Folder Include="Management" />
     <Folder Include="Dwh\M2M" />
-    <Folder Include="Dwh\SP" />
+    <Folder Include="Dwh\TVF" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Dwh\Dimensions\DimCountry.sql" />
@@ -73,7 +73,7 @@
     <None Include="Management\Create database.sql" />
     <Build Include="Dwh\Dimensions\DimLanguage.sql" />
     <Build Include="Dwh\M2M\M2MLanguageCountry.sql" />
-    <Build Include="Dwh\SP\AmountsByCustomerOnMonth.sql" />
+    <Build Include="Dwh\TVF\AmountsByCustomerOnMonth.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Steroids.publish.xml" />
