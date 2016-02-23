@@ -73,4 +73,7 @@
     <None Include="Steroids.publish.xml" />
     <None Include="Management\Quick Fix.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="Dwh\Script.PostDeployment.sql" />
+  </ItemGroup>
 </Project>
