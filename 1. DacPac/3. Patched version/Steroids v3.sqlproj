@@ -62,7 +62,6 @@
     <Folder Include="Dwh" />
     <Folder Include="Dwh\Dimensions" />
     <Folder Include="Dwh\Facts" />
-    <Folder Include="Management" />
     <Folder Include="Dwh\M2M" />
     <Folder Include="Deployment" />
     <Folder Include="Dwh\TVF" />
@@ -71,14 +70,12 @@
     <Build Include="Dwh\Dimensions\DimCountry.sql" />
     <Build Include="Dwh\Dimensions\DimCustomer.sql" />
     <Build Include="Dwh\Facts\FactDailyOrder.sql" />
-    <None Include="Management\Create database.sql" />
     <Build Include="Dwh\Dimensions\DimLanguage.sql" />
     <Build Include="Dwh\M2M\M2MLanguageCountry.sql" />
     <Build Include="Dwh\TVF\AmountsByCustomerOnMonth.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Steroids.publish.xml" />
-    <None Include="Management\DacPac History.sql" />
   </ItemGroup>
   <ItemGroup>
     <PreDeploy Include="Deployment\PreDeployment.sql" />
