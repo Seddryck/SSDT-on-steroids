@@ -72,9 +72,9 @@
     </Build>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Steroids Template.publish.xml" />
     <None Include="Country-Merge.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
     </None>
-    <None Include="Steroids Template.publish.xml" />
   </ItemGroup>
 </Project>
