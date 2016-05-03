@@ -233,3 +233,5 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+5. Templates/Country-Merge.sql
+6. Templates Tibre/Tables.sql
