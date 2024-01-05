@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 Seddryck/SSDT-on-steroids is built on the following main stack:
+
 - [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - [C#](http://csharp.net) – Languages
 - [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
@@ -10,11 +11,13 @@ Seddryck/SSDT-on-steroids is built on the following main stack:
 - [ASP.NET](https://www.asp.net/) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 Seddryck/SSDT-on-steroids is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1027/sql_server.png' alt='Microsoft SQL Server'/> [Microsoft SQL Server](http://microsoft.com/sqlserver) – Databases
@@ -23,14 +26,15 @@ Seddryck/SSDT-on-steroids is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Seddryck/SSDT-on-steroids](https://github.com/Seddryck/SSDT-on-steroids)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|11/12/23 <br/>Report generated|
+|7<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -113,4 +117,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
