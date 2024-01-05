@@ -1,7 +1,8 @@
 repo_name: Seddryck/SSDT-on-steroids
 report_id: 2c2e7eae4b5495a104e2aae22f100f17
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T20:21:47+00:00'
+timestamp: '2024-01-05T08:47:53+00:00'
 requested_by: Seddryck
 provider: github
 branch: master
@@ -17,7 +18,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: 4. Custom code analysis rule/Code/CustomCodeAnalysisRule.csproj
+  detection_source_url: https://github.com/Seddryck/SSDT-on-steroids/blob/master/4.
+    Custom code analysis rule/Code/CustomCodeAnalysisRule.csproj
   detection_source: 4. Custom code analysis rule/Code/CustomCodeAnalysisRule.csproj
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2016-02-20 15:31:36.000000000 Z
@@ -30,6 +32,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/Seddryck/SSDT-on-steroids
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -39,7 +42,9 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
-  detection_source: 5. Templates/Stg/Schema.sql
+  detection_source_url: https://github.com/Seddryck/SSDT-on-steroids/blob/master/1.
+    DacPac/1. Initial database/Dwh/Dimensions/DimCountry.sql
+  detection_source: 1. DacPac/1. Initial database/Dwh/Dimensions/DimCountry.sql
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2016-01-31 10:47:45.000000000 Z
 - name: ".NET"
@@ -53,7 +58,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source_url: 4. Custom code analysis rule/Code/CustomCodeAnalysisRule.csproj
+  detection_source_url: https://github.com/Seddryck/SSDT-on-steroids/blob/master/4.
+    Custom code analysis rule/Code/CustomCodeAnalysisRule.csproj
   detection_source: 4. Custom code analysis rule/Code/CustomCodeAnalysisRule.csproj
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2016-02-20 15:31:36.000000000 Z
@@ -66,8 +72,9 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1027/sql_server.png
-  detection_source_url: 1. DacPac/1. Initial database/Steroids v1.sqlproj
-  detection_source: 6. Templates Tibre/Steroids - Tibre.sqlproj
+  detection_source_url: https://github.com/Seddryck/SSDT-on-steroids/blob/master/1.
+    DacPac/1. Initial database/Steroids v1.sqlproj
+  detection_source: 1. DacPac/1. Initial database/Steroids v1.sqlproj
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2016-01-31 10:47:45.000000000 Z
 - name: Git
@@ -78,6 +85,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Seddryck/SSDT-on-steroids
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -88,6 +96,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/Seddryck/SSDT-on-steroids/blob/master/1.
+    DacPac/Steroids.sln
   detection_source: 1. DacPac/Steroids.sln
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2016-01-31 10:47:45.000000000 Z
